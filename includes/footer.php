@@ -39,4 +39,4 @@
     </div>
 </div>
 
-<!--end-Footer-part--
+<!--end-Footer-part-->
