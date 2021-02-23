@@ -24,7 +24,7 @@ $res=mysqli_query($link,"select * from user_register where id=$id");
 		$img_dir=$row["img_dir"];
     }
 ?>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
 
 
         	          <div class="span12">
